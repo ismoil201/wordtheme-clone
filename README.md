@@ -32,4 +32,4 @@
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/WordTheme.git
+git clone https://git@github.com:ismoil201/wordtheme-clone.git
